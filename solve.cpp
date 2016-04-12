@@ -4,6 +4,7 @@
 #include <cstdlib>
 #include<time.h>
 #include<cstdio>
+using namespace std;
 
 int main()
 {
