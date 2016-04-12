@@ -4,11 +4,12 @@
 #include <cstdlib>
 #include <time.h>
 #include <cstdio>
+using namespace std;
 
 int main()
 {
 	Sudoku sdk;
-	sdk.GiveQuestion();
+	sdk.giveQuestion();
 	system("PAUSE");
 	return 0;
 }
